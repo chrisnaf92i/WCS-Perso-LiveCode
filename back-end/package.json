@@ -15,7 +15,6 @@
     "sqlite3": "^5.1.0",
     "typeorm": "^0.3.9"
   },
-  "type": "module",
   "devDependencies": {
     "nodemon": "^2.0.19"
   }
